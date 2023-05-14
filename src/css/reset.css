@@ -1,0 +1,12 @@
+*{
+    /* margem propriamente dito como espaço entre duas caixas */
+    margin: 0; 
+    /* espaço entre itemns dentro da caixa */
+    padding: 0; 
+    /* tamanho da caixã (dã) */
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+
+}
